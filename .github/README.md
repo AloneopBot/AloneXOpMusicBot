@@ -2,32 +2,32 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
+    「 𝐀ʟᴏɴᴇ 」</h2>
 
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
+  <img src="https://github.com/AloneopBot/AloneXOpMusicBot/blob/main/TheChampu.gif">
 </p>
 <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[❥𝕮𝖍𝖆𝖒𝖕𝖚 ᭄_🖤⚜☄](https://t.me/champumusicbot)
+[❥𝐀ʟᴏɴᴇ ᭄_🖤⚜☄](https://t.me/AloneXMusicBot)
 
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/TheChampu/ChampuMusic/stargazers"><img src="https://img.shields.io/github/stars/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TheChampu/ChampuMusic/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/ChampuMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/AloneopBot/AloneXOpMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AloneopBot/AloneXOpMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AloneopBot/AloneXOpMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheChampu/ChampuMusic/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AloneopBot/AloneXOpMusicBot/commits/"> <img src="https://img.shields.io/github/last-commit/TheChampu/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuMusic/blob/main/%F0%9F%96%A4%EA%9C%B1%E2%83%9F%D0%BD%CD%A5%CE%B9%CE%BD%CD%A3%CE%B1%CD%AB%D0%B8%D1%95%D0%BD%CF%85%F0%9F%96%A4.gif">
+  <img src="https://github.com/AloneopBot/AloneXOpMusicBot/blob/main/%F0%9F%96%A4%EA%9C%B1%E2%83%9F%D0%BD%CD%A5%CE%B9%CE%BD%CD%A3%CE%B1%CD%AB%D0%B8%D1%95%D0%BD%CF%85%F0%9F%96%A4.gif">
 </p>
 
 
@@ -93,7 +93,7 @@ sudo pkill -9 python3
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheChampu/ChampuMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AloneopBot/AloneXOpMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -107,11 +107,11 @@ sudo pkill -9 python3
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+    ─「⏤͟͟͞͞•𓆩ᶦτͫ𝒛ͤ།┼⃖͢•🥵λℓ๏иє°᭄♡┼⃖͢⎯꯭̽𓆩🖤𓆪」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/ShivanshuDeo"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_ITZ_ALONE_ll"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -119,7 +119,7 @@ sudo pkill -9 python3
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheShivanshu"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AloneXNetwork"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
